@@ -199,3 +199,4 @@ Extend manifests with additional metadata or metrics.
 
 MIT License (see LICENSE).
 Third-party dependencies retain their original licenses.
+
