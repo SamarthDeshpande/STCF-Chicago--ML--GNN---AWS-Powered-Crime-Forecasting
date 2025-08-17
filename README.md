@@ -1,5 +1,8 @@
 # 🔎 Chicago Crime ML — End-to-End Pipelines  
 
+
+Dashboard.jpg
+
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)  
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2-red.svg)](https://pytorch.org/)  
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0.3-green.svg)](https://xgboost.ai/)  
@@ -199,4 +202,5 @@ Extend manifests with additional metadata or metrics.
 
 MIT License (see LICENSE).
 Third-party dependencies retain their original licenses.
+
 
